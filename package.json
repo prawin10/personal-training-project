@@ -1,0 +1,22 @@
+{
+  "name": "personal-training-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prawin10/personal-training-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prawin10/personal-training-project/issues"
+  },
+  "homepage": "https://github.com/prawin10/personal-training-project#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
